@@ -29,13 +29,25 @@
     
     
     <entry>
-      <title>第一篇文章</title>
+      <title>博客源码搭建说明文档(自用)</title>
       <link href="/2023/08/03/2023-08-03/"/>
       <url>/2023/08/03/2023-08-03/</url>
       
-        <content type="html"><![CDATA[<h2 id="写点什么来测试一下"><a href="#写点什么来测试一下" class="headerlink" title="写点什么来测试一下"></a>写点什么来测试一下</h2>]]></content>
+        <content type="html"><![CDATA[<h3 id="1-Markdown写作"><a href="#1-Markdown写作" class="headerlink" title="1.Markdown写作"></a>1.Markdown写作</h3><p><strong>只能使用”.md”的格式！</strong></p><p>文章的开头段统一按照下列的要求去写！</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章标题</span><br><span class="line">date: 创建日期</span><br><span class="line">updated: 更新日期</span><br><span class="line">cover: 文章封面</span><br><span class="line">description: 文章描述</span><br><span class="line">tags:标签</span><br><span class="line">categories:分类</span><br><span class="line"><span class="section">swiper<span class="emphasis">_index: 1 #置顶轮播图顺序，非负整数，数字越大越靠前</span></span></span><br><span class="line"><span class="emphasis"><span class="section">---</span></span></span><br></pre></td></tr></table></figure><h3 id="2-外挂标签"><a href="#2-外挂标签" class="headerlink" title="2.外挂标签"></a>2.外挂标签</h3><p>后面再补充吧~</p><h3 id="3-icon图标"><a href="#3-icon图标" class="headerlink" title="3. icon图标"></a>3. icon图标</h3><p>后面再补充吧~</p><h3 id="4-关于颜色var-—"><a href="#4-关于颜色var-—" class="headerlink" title="4.关于颜色var(—)"></a>4.关于颜色var(—)</h3><p>其中的文内没有提及的颜色，都需要替换掉。</p><h3 id="5-暂时未解决的问题"><a href="#5-暂时未解决的问题" class="headerlink" title="5. 暂时未解决的问题"></a>5. 暂时未解决的问题</h3><ol><li>归档图标未更换！</li></ol>]]></content>
       
       
+      <categories>
+          
+          <category> 建站相关 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 未完成 </tag>
+            
+        </tags>
       
     </entry>
     
